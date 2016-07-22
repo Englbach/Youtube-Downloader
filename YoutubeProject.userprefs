@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="YoutubeProject/YoutubeProject.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="YoutubeProject/Resources/VideoActivity.cs">
+    <Files>
+      <File FileName="YoutubeProject/MainActivity.cs" Line="27" Column="31" />
+      <File FileName="YoutubeProject/Resources/menu/itemSearch.xml" Line="1" Column="1" />
+      <File FileName="YoutubeProject/Resources/values/Styles.xml" Line="1" Column="1" />
+      <File FileName="YoutubeProject/Properties/AndroidManifest.xml" Line="7" Column="12" />
+      <File FileName="YoutubeProject/Resources/model/Youtube.cs" Line="68" Column="13" />
+      <File FileName="YoutubeProject/Resources/VideoActivity.cs" Line="77" Column="23" />
+      <File FileName="YoutubeProject/YoutubeProject.csproj" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.YoutubeProject AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus5" />
+</Properties>
